@@ -10,6 +10,10 @@
 ### Files included -
 * index.html: The main HTML document. Contains links to all of the CSS and JS resources needed to render the resume, including resumeBuilder.js.
 * js/helper.js: Contains helper code needed to format the resume and build the map. It also has a few function shells for additional functionality.
+* js/jQuery.js: The jQuery library.
+* js/resumeBuilder.js: This file is empty. You should write your code here.
+
+
 
 
 
